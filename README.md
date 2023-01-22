@@ -6,7 +6,7 @@ We're reading the book (biweekly on Fridays) at the **README** bookclub with [TJ
 
 More info at:
 
-- Twitch: <twitch.tv/teej_dv>
+- Twitch: <https://twitch.tv/teej_dv>
 - Discord: <https://discord.gg/7Vx9YpjZj4>
 
 Hope I can attend to all the streams... 
